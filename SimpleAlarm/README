@@ -1,0 +1,18 @@
+﻿SimpleAlarm
+
+A simple, handsomely looking alarm clock for Windows.
+
+Easily set the hour and minute to which you want your alarm to
+go off at, with the simple up and down arrows above and below
+the hours, and minutes.
+
+Set your own alarm, replace the alarm.wav in the Sounds folder
+with your own wav file to get a custom alarm sound.
+
+Hit the snooze button to add 5 minutes to the clock and give
+you a couple extra minutes of sleep.
+
+Change Log
+
+Version 1.0.0.0
+- Initial release.
