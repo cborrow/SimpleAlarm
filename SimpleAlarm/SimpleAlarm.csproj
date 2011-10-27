@@ -90,7 +90,6 @@
     <None Include="Resources\downButton.png" />
     <None Include="Resources\upButton.png" />
     <Content Include="AlarmIcon.ico" />
-    <None Include="README" />
     <Content Include="Sounds\alarm.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
